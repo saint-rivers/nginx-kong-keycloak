@@ -1,0 +1,3 @@
+./proxy/rootCA.crt
+./proxy/cert.crt
+./proxy/cert.csr
